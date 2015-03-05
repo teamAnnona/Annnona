@@ -41,7 +41,7 @@ $(document).ready(function() {
 			<td><input name="files[1]" type="file" /></td>
 		</tr>
 	</table>
-	<br/><input type="submit" value="Upload" />
+	<br/><input type="submit" value="Upload12345" />
 </form:form>
 </body>
 </html>
