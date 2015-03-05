@@ -15,7 +15,7 @@
 		<property name="dataSource" ref="dataSource"/>
 		<property name="annotatedClasses">
 			<list>
-				<value>com.sa.hlo.RegisterBo</value>
+				<value>com.sa.hlo.RegisterBoo</value>
 			</list>
 		</property>
 		<property name="hibernateProperties">
